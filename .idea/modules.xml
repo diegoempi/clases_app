@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cotizador_seguros.iml" filepath="$PROJECT_DIR$/cotizador_seguros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clases_app.iml" filepath="$PROJECT_DIR$/clases_app.iml" />
     </modules>
   </component>
 </project>
